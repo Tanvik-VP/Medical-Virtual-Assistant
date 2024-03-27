@@ -1,4 +1,4 @@
-# Medical-Virtual-Assistant - Databricks, SparkNLP
+# Medical-Virtual-Assistant - Databricks, SparkNLP, Finetuning RAG
 
 Created a virtual assistant which answers any medical question based on the research papers as a knowledge base
 
